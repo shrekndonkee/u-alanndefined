@@ -13,6 +13,9 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(root, 'index.html'),
+        main: resolve(root, 'index.html'),
+                basicTypes: resolve(root, 'basicTypes', 'index.html'),
+                functionTypes: resolve(root, 'functionTypes', 'index.html'),
         //nested: resolve(root, 'nested/index.html),
 
       }
