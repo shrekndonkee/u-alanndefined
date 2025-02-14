@@ -1,2 +1,2 @@
 //Link to site through Netlify
-https://alan2720basic.netlify.app/
+https://2720appalan.netlify.app/
