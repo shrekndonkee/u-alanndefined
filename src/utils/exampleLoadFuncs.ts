@@ -1,6 +1,6 @@
 import hljs from "highlight.js/lib/core"
 import typescript from "highlight.js/lib/languages/typescript"
-
+import type { CodeExample } from '../types/CodeExample'
 // Then register the languages you need
 hljs.registerLanguage("typescript", typescript)
 
